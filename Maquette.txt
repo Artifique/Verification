@@ -1,0 +1,8 @@
+Une maquette est une représentation partielle ou complète d'un système, d'un objet ou d'un espace, existant ou en projet, créée dans le but de :
+
+ Étudier, tester et valider divers aspects :
+Fonctionnalité: Évaluer si un système fonctionne comme prévu et identifier d'éventuels problèmes de fonctionnement.
+Ergonomie: Tester la facilité d'utilisation d'un produit, d'un service ou d'une interface utilisateur et apporter des améliorations si nécessaire.
+Esthétique: Valider l'aspect visuel d'un objet, d'un espace ou d'une interface utilisateur et apporter des modifications si nécessaire.
+Comportement: Simuler le comportement d'un système ou d'un objet dans différentes conditions.
+Techniques et matériaux: Tester la faisabilité de techniques de construction ou l'utilisation de matériaux spécifiques.
